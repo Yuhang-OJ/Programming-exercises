@@ -12,59 +12,11 @@
 
 ### 第1章 基本算法
 
-#### 第1节
+#### 第1节（先拿两道简单题练练手，早点进入状态）
 
-1. 枚举法：  
-   [题目：Flip Game](http://poj.org/problem?id=1753)    
-   [答案解析](https://blog.csdn.net/lyy289065406/article/details/6642595)
-2. 贪心法： 
-   [Radar Installation](http://poj.org/problem?id=1328)  
-   [答案解析](https://blog.csdn.net/lyy289065406/article/details/6642599)
-3. 构造法：  
-   [题目：Tautology](http://poj.org/problem?id=3295)  
-   [答案解析](https://blog.csdn.net/lyy289065406/article/details/6642766)
-4. 模拟法：  
-   [题目：Maya Calendar](http://poj.org/problem?id=1008)  
-   [答案解析](https://blog.csdn.net/lyy289065406/article/details/6645413)
-5. 大数计算：  
-   [题目：Exponentiation](http://poj.org/problem?id=1001)  
-   [答案解析](https://blog.csdn.net/lyy289065406/article/details/6645478)
+1. #### 贪心法——[两个数组的交集](/docs/基础篇/第1章 基本算法/两个数组的交集.md)
 
-#### 第2节
-
-1. 枚举法：  
-   [题目：The Pilots Brothers' refrigerator](http://poj.org/problem?id=2965)    
-   [答案解析](https://blog.csdn.net/lyy289065406/article/details/6642597)
-2. 贪心法： 
-   [**Y2K Accounting Bug**](http://poj.org/problem?id=2586)  
-   [答案解析](https://blog.csdn.net/lyy289065406/article/details/6642603)
-3. 构造法：  
-   [题目：**Solution to the** *n* **Queens Puzzle**](http://poj.org/problem?id=3239)  
-   [答案解析](https://blog.csdn.net/lyy289065406/article/details/6642789)
-4. 模拟法：  
-   [题目：**Parencodings**](http://poj.org/problem?id=1068)  
-   [答案解析](https://blog.csdn.net/lyy289065406/article/details/6645420)
-5. 大数计算：  
-   [题目：**Integer Inquiry**](http://poj.org/problem?id=1503)  
-   [答案解析](https://blog.csdn.net/lyy289065406/article/details/6645487)
-
-#### 第3节  数据结构
-
-1. 串：  
-   [题目：**Numbers That Count**](http://poj.org/problem?id=1016)    
-   [答案解析](https://blog.csdn.net/lyy289065406/article/details/6673675)
-2. 排序： 
-   [题目：**DNA Sorting**](http://poj.org/problem?id=1007)  
-   [答案解析](https://blog.csdn.net/lyy289065406/article/details/6647305)
-3. 查找法：  
-   [题目：**487-3279**](http://poj.org/problem?id=1002)  
-   [答案解析](https://blog.csdn.net/lyy289065406/article/details/6647348)
-4. 优先队列：  
-   [题目：**Fence Repair**](http://poj.org/problem?id=3253)  
-   [答案解析](https://blog.csdn.net/lyy289065406/article/details/6647423)
-5. 建树：  
-   [题目：**Colored Sticks**](http://poj.org/problem?id=2513)  
-   [答案解析](https://blog.csdn.net/lyy289065406/article/details/6647445)
+2. #### 排序——[字符串压缩](/docs/基础篇/第1章 基本算法/字符串压缩.md)
 
 ## 进阶篇
 
